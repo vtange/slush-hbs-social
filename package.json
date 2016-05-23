@@ -1,40 +1,40 @@
 {
-    "name": "slush-hbs-social",
-    "description": "generate a handlebars app with a header that can log you in via social media",
-    "version": "1.0.0",
-    "homepage": "https://github.com/vtange/slush-hbs-social",
-    "author": {
-        "name": "Victor Tang",
-        "email": "victortang1992@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/vtange/slush-hbs-social.git"
-    },
-    "bugs": {
-        "url": "https://github.com/vtange/slush-hbs-social/issues"
-    },
-    "license": "MIT",
-    "main": "slushfile.js",
-    "engines": {
-        "node": ">= 0.10.26",
-        "npm": ">=1.4.3"
-    },
-    "scripts": {
-        "test": "echo \"No tests\""
-    },
-    "dependencies": {
-        "slush": ">=1.0.0",
-        "gulp": "^3.6.2",
-        "gulp-template": "^0.1.1",
-        "gulp-install": "^0.1.4",
-        "gulp-conflict": "^0.1.1",
-        "gulp-rename": "^1.2.0",
-        "underscore.string": "^2.3.3",
-        "inquirer": "^0.8.0",
-        "iniparser": "^1.0.5"
-    },
-    "keywords": [
-        "slushgenerator"
-    ]
+  "name": "slush-hbs-social",
+  "description": "generate a handlebars app with a header that can log you in via social media",
+  "version": "1.0.1",
+  "homepage": "https://github.com/vtange/slush-hbs-social",
+  "author": {
+    "name": "Victor Tang",
+    "email": "victortang1992@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vtange/slush-hbs-social.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vtange/slush-hbs-social/issues"
+  },
+  "license": "MIT",
+  "main": "slushfile.js",
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "slush": ">=1.0.0",
+    "gulp": "^3.6.2",
+    "gulp-template": "^0.1.1",
+    "gulp-install": "^0.1.4",
+    "gulp-conflict": "^0.1.1",
+    "gulp-rename": "^1.2.0",
+    "underscore.string": "^2.3.3",
+    "inquirer": "^0.8.0",
+    "iniparser": "^1.0.5"
+  },
+  "keywords": [
+    "slushgenerator"
+  ]
 }
